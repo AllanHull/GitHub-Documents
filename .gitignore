@@ -1,0 +1,12 @@
+# PowerShell / DevOps
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
