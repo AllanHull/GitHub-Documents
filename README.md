@@ -26,3 +26,9 @@ Run the tests locally:
 ```powershell
 Invoke-Pester -Path ./tests
 ```
+
+## Directories
+
+- scripts
+- tests
+
