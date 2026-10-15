@@ -2,6 +2,9 @@
 
 This repository is a simple starter project for building and validating PowerShell-based DevOps workflows.
 
+# Changes
+2026-OCT-14 Updated README.md
+
 ## What is included
 
 - A sample deployment script in [scripts/Deploy-App.ps1](scripts/Deploy-App.ps1)
